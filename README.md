@@ -1,16 +1,62 @@
-## Hi there 👋
+## Hi | 你好 | こんにちは 👋
 
-<!--
-**shin-xinyuewu/shin-xinyuewu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 `SHIN WU` 👾  
 
-Here are some ideas to get you started:
+#### 🟩 Dartmouth College'27, M.Eng/BE AI + OR&DA Engineering
+#### 🟦 Colby College'26, BA Math + Econ
+#### 🇬🇧 UWCer'22
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 i have some experiences...
+
+#### 🧪 human‑ai interaction RA ＠ colby
+
+
+#### 🎓 ai language learning product RA ＠ colby
+
+
+#### 📊 product analytics intern @ hostinn  
+
+#### ⛽️ commodities trading Intern @ hengli group
+
+#### 💰 VC analyst intern @ maine angels
+
+
+#### 🇨🇳🇯🇵 conference coordinator & co-organizer @ SJYC
+
+---
+
+## 🎮 i have some projects...(hardware + vibe coding)
+#### MIDI DIGITAL AUDIO SYSTEM · FPGA / VHDL
+🔗 **repo:** [`midi-keyboard-fpga`](https://github.com/shin-xinyuewu/midi-keyboard-fpga)  
+#### INVERTED PENDULUM CONTROL SYSTEM   
+🔗 **repo:** to be set up
+
+
+
+---
+
+## 🧰 `skills & interests`
+
+**🗣️ languages**  
+`中文 (native)` · `english (native)` · `japanese (intermediate)`
+
+**💻 technical stack**  
+`python` · `sql` · `postgresql` · `looker studio` · `r` · `stata` · `matlab` · `java` · `vhdl` · `excel`
+
+**🎯 interests**  
+`⛷️ skiing` · `🧗 bouldering` · `🏸 badminton` · `💃 latin dance (gold medal)` · `🎹 music composition` · `📷 film photography`
+
+---
+
+## 🎯 `currently seeking`
+
+> **2026 summer pm internship** 
+> *I build things that ship, measure, and learn.*
+
+---
+
+## 📡 `connect`
+
+📧 shin.wu.0110@gmail.com
+
+
