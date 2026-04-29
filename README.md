@@ -2,8 +2,10 @@
 
 # 👾 `SHIN WU` 👾  
 
-#### 🟩 Dartmouth College'27, M.Eng/BE AI + OR&DA Engineering
-#### 🟦 Colby College'26, BA Math + Econ
+#### 🟩 Dartmouth College'27 
+`M.Eng/BE | AI + OR&DA Engineering`
+#### 🟦 Colby College'26 
+`BA | Math + Econ`
 #### 🇬🇧 UWCer'22
 
 ## 📦 i have some experiences...
