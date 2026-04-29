@@ -8,20 +8,20 @@
 
 ## 📦 i have some experiences...
 
-#### 🧪 human‑ai interaction RA ＠ colby
+####  human‑ai interaction RA ＠ colby
 
 
-#### 🎓 ai language learning product RA ＠ colby
+####  ai language learning product RA ＠ colby
 
 
-#### 📊 product analytics intern @ hostinn  
+####  product analytics intern @ hostinn  
 
-#### ⛽️ commodities trading Intern @ hengli group
+####  commodities trading Intern @ hengli group
 
-#### 💰 VC analyst intern @ maine angels
+####  VC analyst intern @ maine angels
 
 
-#### 🇨🇳🇯🇵 conference coordinator & co-organizer @ SJYC
+#### conference coordinator & co-organizer @ SJYC
 
 ---
 
