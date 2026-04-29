@@ -1,14 +1,25 @@
 ## Hi | 你好 | こんにちは 👋
 
-# 👾 `SHIN WU` 👾  
+# `SHIN WU` 
 
-#### 🟩 Dartmouth College'27 
+#### `passionate about building products people love.`
+
+i don't build for *users*. i build for the people they forget they could be.  
+
+> *What does this system help someone become?*  Everything else is just execution.
+
+## 🧑‍🎓 `education`
+
+#### 🟩 [dartmouth college](https://engineering.dartmouth.edu/) '27
+
 `M.Eng/BE | AI + OR&DA Engineering`
-#### 🟦 Colby College'26 
-`BA | Math + Econ`
-#### 🇬🇧 UWCer'22
 
-## 📦 i have some experiences...
+#### 🟦 [colby college](https://www.colby.edu/) '26
+
+`BA | Math + Econ`
+#### 🇬🇧 [uwc](https://www.uwcatlantic.org/)'22
+
+### ` 📦 some experiences...`
 
 ####  human‑ai interaction RA ＠ colby
 
@@ -27,7 +38,7 @@
 
 ---
 
-## 🎮 i have some projects...(hardware + vibe coding)
+### ` 🎮 some projects...(hardware + vibe coding)`
 #### MIDI DIGITAL AUDIO SYSTEM · FPGA / VHDL
 🔗 **repo:** [`midi-keyboard-fpga`](https://github.com/shin-xinyuewu/midi-keyboard-fpga)  
 #### INVERTED PENDULUM CONTROL SYSTEM   
